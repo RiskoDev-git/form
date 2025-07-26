@@ -1,6 +1,3 @@
-# form
-Carrd Forms for T&amp;T Network
-
 Fill out this format: 
 ### 1. About You
 - Full Name or Username:
